@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Cevin Gurung a passionate developer interest in backend, microservices and DevOps however I'm eager to explore and learn new technology.</h1>
+<h1>Hi 👋, I'm Cevin Gurung a passionate developer interested in backend, microservices and DevOps however I'm eager to explore and learn new technology.</h1>
 <p>I'm a second year Computer science student from Nepal. My hobbies are gaming, reading novel and chess. As someone who was exposed to technology at a young age and willing to learn from everyone and anyone that's why I want to join Developers' Community.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
