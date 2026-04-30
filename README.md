@@ -1,13 +1,47 @@
-<h1>Hi 👋, I'm Cevin Gurung a passionate developer interested in backend, microservices and DevOps however I'm eager to explore and learn new technology.</h1>
-<p>I'm a second year Computer science student from Nepal. My hobbies are gaming, reading novel and chess. As someone who was exposed to technology at a young age and willing to learn from everyone and anyone that's why I want to join Developers' Community.</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/cevin-gurung-207362292" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/cevingurung" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+<h1>Hi 👋, I'm Cevin Gurung</h1>
+
+<p>
+A Computer Science student from Nepal passionate about software engineering, backend development, and building scalable systems.
+I enjoy designing applications from database architecture and backend logic to deployment and infrastructure.
+My long-term interests are in System Design, Cloud Engineering, Distributed Systems, and DevOps.
+</p>
+
+<p>
+I work across multiple technologies and enjoy learning how different ecosystems solve engineering problems.
+Whether it's building REST APIs, full-stack applications, deploying services, or designing modular architectures, I enjoy turning ideas into production-ready software.
+</p>
+
+<h2>🚀 Tech Stack</h2>
+
+<p>
+<strong>Languages:</strong> Java, Python, JavaScript, C#<br>
+<strong>Backend:</strong> Spring Boot, Django, ASP.NET Core, Node.js / Express<br>
+<strong>Frontend:</strong> React, HTML, CSS, JavaScript<br>
+<strong>Database:</strong> MySQL, Oracle SQL, PostgreSQL<br>
+<strong>Tools:</strong> Git, Linux, Maven, Docker<br>
+<strong>Currently Exploring:</strong> System Design, Microservices, Cloud Infrastructure, CI/CD, Deployment Pipelines
+</p>
+
+<h2>🛠 What I'm Interested In</h2>
+
+<p>
+• Backend Engineering<br>
+• Scalable System Architecture<br>
+• Microservices<br>
+• Cloud Computing<br>
+• Containerization & Deployment<br>
+• DevOps Practices<br>
+• Distributed Systems
+</p>
+
+<h2>📌 Current Focus</h2>
+
+<p>
+Building projects that improve my engineering depth—writing cleaner architecture, understanding system scalability, and learning how modern applications are deployed and maintained in production.
+</p>
+
+<h2>⚡ Connect With Me</h2>
+
+<p>
+Always learning, always building, always curious about how systems work.
+</p>
