@@ -15,7 +15,7 @@ Whether it's building REST APIs, full-stack applications, deploying services, or
 
 <p>
 <strong>Languages:</strong> Java, Python, JavaScript, C#<br>
-<strong>Backend:</strong> Spring Boot, Django, ASP.NET Core, Node.js / Express<br>
+<strong>Backend:</strong> Spring Boot, Django, ASP.NET Core
 <strong>Frontend:</strong> React, HTML, CSS, JavaScript<br>
 <strong>Database:</strong> MySQL, Oracle SQL, PostgreSQL<br>
 <strong>Tools:</strong> Git, Linux, Maven, Docker<br>
